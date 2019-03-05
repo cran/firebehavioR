@@ -1,7 +1,7 @@
 firebehavioR
 ================
 
-Fire behavior prediction models, including the Scott & Reinhardt's (2001) Rothermel Wildland Fire Modelling System [DOI:10.2737/RMRS-RP-29](https://doi.org/10.2737/RMRS-RP-29) and Alexander et al.'s (2006) Crown Fire Initiation & Spread model [DOI:10.1016/j.foreco.2006.08.174](https://doi.org/10.1016/j.foreco.2006.08.174). Also contains sample datasets, estimation of fire behavior prediction model inputs (e.g., fuel moisture, canopy characteristics, wind adjustment factor), results visualization, and methods to estimate fire weather hazard.
+Fire behavior prediction models, including the Scott & Reinhardt's (2001) Rothermel Wildland Fire Modelling System [DOI:10.2737/RMRS-RP-29](https://www.fs.usda.gov/treesearch/pubs/4623) and Alexander et al.'s (2006) Crown Fire Initiation & Spread model [DOI:10.1016/j.foreco.2006.08.174](https://www.sciencedirect.com/science/article/pii/S0378112706006839?via%3Dihub). Also contains sample datasets, estimation of fire behavior prediction model inputs (e.g., fuel moisture, canopy characteristics, wind adjustment factor), results visualization, and methods to estimate fire weather hazard.
 
 Features
 --------

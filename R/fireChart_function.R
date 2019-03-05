@@ -41,7 +41,7 @@ fireChart <- function(name, hpua, ros) {
     m^2 ~ ")"), y = "Rate of spread (m/min)") + geom_point(aes(
       x = hpua,
       y = ros
-    ), pch = 24, fill = "red") + annotate("text",
+    ), pch = 24, fill = "red",inherit.aes=FALSE) + annotate("text",
       x = hpua, y = ros, label = name, vjust = -1
     )
   return(fc)

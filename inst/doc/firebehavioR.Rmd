@@ -220,7 +220,7 @@ ggplot(data.frame(ex6), aes(ex6)) + geom_density(fill='blue',alpha = 0.5,adjust 
 ```
   
 In another example, we explore how rate of spread for a grass fire varies with wind direction and topographic slope.  
-```{r}
+```{r, warning=FALSE}
 fuelModels['A5',]
 exampSurfFuel = fuelModels['A5',]
 

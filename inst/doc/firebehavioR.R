@@ -107,7 +107,7 @@ for (i in 1:200){
 ggplot(data.frame(ex6), aes(ex6)) + geom_density(fill='blue',alpha = 0.5,adjust = 1/5) + 
     xlab("Rate of spread (m/s)") + theme_classic() + coord_cartesian(expand=FALSE)
 
-## ------------------------------------------------------------------------
+## ---- warning=FALSE------------------------------------------------------
 fuelModels['A5',]
 exampSurfFuel = fuelModels['A5',]
 
